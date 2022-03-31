@@ -1,0 +1,16 @@
+
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(Ë¡õÊúÿÿÿÿ
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(ãêáó
+S	java:S106"9Replace this use of System.out or System.err by a logger.(€Ê…³øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(øæÐ¥
+N	java:S106"9Replace this use of System.out or System.err by a logger.(–šÇÛ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(œ¡Ú¿þÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Àš‰»
+M	java:S106"9Replace this use of System.out or System.err by a logger.(«»üv
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹¦þÇùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®æžîüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(·ËŠùúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(»¦ÚÚ
+^
+java:S2583"CChange this condition so that it does not always evaluate to "true"(¾êªÍøÿÿÿÿ

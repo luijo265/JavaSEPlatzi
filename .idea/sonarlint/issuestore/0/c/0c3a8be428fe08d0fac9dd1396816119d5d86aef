@@ -1,0 +1,31 @@
+
+P
+java:S18542":Remove this useless assignment to local variable "d4long".(¿Ù£ª
+U
+java:S1854/":Remove this useless assignment to local variable "i3Byte".(ıØñ„şÿÿÿÿ
+V
+java:S1854,";Remove this useless assignment to local variable "i2Float".(úËÎøÿÿÿÿ
+O
+java:S1854)"9Remove this useless assignment to local variable "dLong".(„¿êù
+P
+java:S1854&":Remove this useless assignment to local variable "iShort".(å©µÍ
+T
+java:S1854""9Remove this useless assignment to local variable "c1Int".(ÏĞ¼ûÿÿÿÿ
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(ÒúØ˜
+S	java:S106"9Replace this use of System.out or System.err by a logger.(á¯áùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ßŒ÷
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Áß‡Ü
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ŸØñÈ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Š¶‡
+E
+java:S1481""*Remove this unused "c1Int" local variable.(ÏĞ¼ûÿÿÿÿ
+A
+java:S1481&"+Remove this unused "iShort" local variable.(å©µÍ
+@
+java:S1481)"*Remove this unused "dLong" local variable.(„¿êù
+G
+java:S1481,",Remove this unused "i2Float" local variable.(úËÎøÿÿÿÿ
+F
+java:S1481/"+Remove this unused "i3Byte" local variable.(ıØñ„şÿÿÿÿ
+A
+java:S14812"+Remove this unused "d4long" local variable.(¿Ù£ª

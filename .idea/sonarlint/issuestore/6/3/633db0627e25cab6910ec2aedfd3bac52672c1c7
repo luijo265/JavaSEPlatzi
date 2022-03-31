@@ -1,0 +1,21 @@
+
+W
+java:S1854
+"<Remove this useless assignment to local variable "numbers4".(„Àç÷úÿÿÿÿ
+V
+java:S1854	";Remove this useless assignment to local variable "numbers".(°Î€Îüÿÿÿÿ
+N
+java:S1854"8Remove this useless assignment to local variable "days".(ÿÎ’“
+@
+java:S1197"*Move the array designators [] to the type.(ÿÎ’“
+?
+java:S1481")Remove this unused "days" local variable.(ÿÎ’“
+G
+java:S1481	",Remove this unused "numbers" local variable.(°Î€Îüÿÿÿÿ
+H
+java:S1481
+"-Remove this unused "numbers4" local variable.(„Àç÷úÿÿÿÿ
+]	java:S125"<This block of commented-out lines of code should be removed.(²¹£ìúÿÿÿÿ8¥Û›Ÿı/
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ‹áF
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(ÇÓÉÔ8± ›Ÿı/
+V	java:S125("<This block of commented-out lines of code should be removed.(ûóˆÿÿÿÿÿ
